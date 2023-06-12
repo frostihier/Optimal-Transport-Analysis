@@ -1,5 +1,5 @@
 
-RECOMMENDATIONS/REQUIREMENTS to run the scripts: 
+## RECOMMENDATIONS/REQUIREMENTS to run the scripts: 
 
 
 The scripts were executed with Pycharm and in cell mode. The cell delimiters are marked by two consecutive number-signs ##. 
@@ -15,9 +15,9 @@ but you can skip this part since already calculated structure facotrs are provid
 
 
 
-DESCRIPTION: 
+## DESCRIPTION: 
 
-Scripts: 
+# Scripts: 
 
 The script Structure-factors.py contains the calculation of the structure factors and the cell density of all patients out of the positions of the nuclei.
 
@@ -29,7 +29,7 @@ with all results up to the final push forwards.
 
 
 
-Folders:
+# Folders:
 
 The folder 'Data/txt-data' contains txt-tables with the positions and properties of the nuclei obtained from the segmentation. Each file corresponds to one patient where 
 the file-numbers indicate the patient numbers. Note this data is also provided in the excel-files.  
@@ -45,15 +45,13 @@ params_txt: This file contains chosen parameters for the entropic regularized so
 
 DOI: [doi.org/10.1016/j.neuroscience.2023.04.002](https://www.sciencedirect.com/science/article/pii/S0306452223001616?via%3Dihub)
 
-Credits / Citation:
+# Credits / Citation:
 
 Cite the manuscript below, when using these scripts or data. 
  
-
 3d virtual histology reveals pathological alterations of cerebellar granule cells in multiple sclerosis
 Jakob Frost, Bernhard Schmitzer, Mareike Töpperwien, Marina Eckermann, Jonas Franz, Christine Stadelmann, Tim Salditt
 NeuroScience (2023). 
 
- 
- In case of questions, please address authors of the corresponding manuscript.
+In case of questions, please address authors of the corresponding manuscript.
  
