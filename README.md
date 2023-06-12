@@ -1,5 +1,5 @@
 
-# RECOMMENDATIONS/REQUIREMENTS to run the scripts: 
+## RECOMMENDATIONS/REQUIREMENTS to run the scripts: 
 
 
 The scripts were executed with Pycharm and in cell mode. The cell delimiters are marked by two consecutive number-signs ##. 
@@ -15,7 +15,7 @@ but you can skip this part since already calculated structure facotrs are provid
 
 
 
-# DESCRIPTION: 
+## DESCRIPTION: 
 
 ### Scripts: 
 
